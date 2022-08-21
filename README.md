@@ -1,0 +1,2 @@
+# autokick-guild-members
+ 
