@@ -14,7 +14,7 @@ YARN  =>  yarn add discord.js dotenv
 ```
 <br>
 
-> ## Set up your `.env` file
+> ## Set up your `.env.example` file
 ```ts
 // Guild ID: right click on your guild and select "Copy ID"
 GUILD_ID = 'replace-with-your-guild-id'
