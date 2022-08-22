@@ -1,21 +1,21 @@
 # AutoKick Guild Members (Advanced)
 
 > ## Init the repo
-```apache
+```ts
 NPM   =>  npm init -y
 YARN  =>  yarn init -y
 ```
 <br>
 
 > ## Install the dependencies
-```apache
+```ts
 NPM   =>  npm i discord.js dotenv
 YARN  =>  yarn add discord.js dotenv
 ```
 <br>
 
 > ## Set up your `.env` file
-```go
+```ts
 // Guild ID: right click on your guild and select "Copy ID"
 GUILD_ID = 'replace-with-your-guild-id'
 
@@ -43,5 +43,6 @@ Ctrl + S => to save the changes
 
 > ## Start the app (in the terminal)
 ```apache
-yarn start
+NPM   =>  npm run start
+YARN  =>  yarn start
 ```
