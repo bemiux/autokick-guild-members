@@ -22,7 +22,7 @@ GUILD_ID = 'replace-with-your-guild-id'
 // Bot Token: https://bit.ly/3QGGNBH
 BOT_TOKEN = 'replace-with-your-bot-token'
 
-// Ignore Bots & Users
+// Ignore Guild Bots & Members
 IGNORE_BOTS = 'YES' or 'NO'
 IGNORE_MEMBERS = ['ID1', 'ID2', 'ID3']
 
@@ -32,7 +32,7 @@ KICK_INTERVAL = 5000
 <br>
 
 > ## Rename & Save the changes
-```css
+```apache
 Rename .env.example => .env
 
 and then use
