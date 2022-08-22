@@ -1,14 +1,14 @@
 # AutoKick Guild Members (Advanced)
 
 > ## Init the repo
-```ts
+```
 NPM   =>  npm init -y
 YARN  =>  yarn init -y
 ```
 <br>
 
 > ## Install the dependencies
-```ts
+```
 NPM   =>  npm i discord.js dotenv
 YARN  =>  yarn add discord.js dotenv
 ```
@@ -32,17 +32,15 @@ KICK_INTERVAL = 5000
 <br>
 
 > ## Rename & Save the changes
-```apache
-Rename .env.example => .env
+```
+Rename the file '.env.example' => .env
 
-and then use
-
-Ctrl + S => to save the changes
+And then use 'Ctrl + S' => to save all the changes
 ```
 <br>
 
 > ## Start the app (in the terminal)
-```apache
+```
 NPM   =>  npm run start
 YARN  =>  yarn start
 ```
